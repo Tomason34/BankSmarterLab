@@ -1,3 +1,4 @@
+⚠️ Disclosure: This write‑up was created with AI assistance, but all the actual lab work, testing, and screenshots were done by me.
 # BankSmarterLab – HackSmarter Walkthrough
 
 ## Status
